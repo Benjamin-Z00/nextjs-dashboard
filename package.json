@@ -4,6 +4,7 @@
     "onlyBuiltDependencies": [
       "bcrypt"
     ]
+  },
   "scripts": {
     "build": "next build",
     "dev": "next dev --turbopack",
